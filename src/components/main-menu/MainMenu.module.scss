@@ -1,0 +1,14 @@
+.root {
+    background-color: #ffffc107;
+    width: 15vw;
+    height: fit-content;
+    margin-bottom: 1rem;
+
+    .button {
+        color: #f2a365;
+    }
+
+    .button :hover {
+        color: white;
+    }
+}   
